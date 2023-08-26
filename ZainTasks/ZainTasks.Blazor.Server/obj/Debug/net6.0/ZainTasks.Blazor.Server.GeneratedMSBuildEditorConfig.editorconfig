@@ -1,0 +1,35 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ZainTasks.Blazor.Server
+build_property.RootNamespace = ZainTasks.Blazor.Server
+build_property.ProjectDir = C:\Users\m_soo\source\repos\isuliman\ZainTask\ZainTasks\ZainTasks.Blazor.Server\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\m_soo\source\repos\isuliman\ZainTask\ZainTasks\ZainTasks.Blazor.Server
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/m_soo/source/repos/isuliman/ZainTask/ZainTasks/ZainTasks.Blazor.Server/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/m_soo/source/repos/isuliman/ZainTask/ZainTasks/ZainTasks.Blazor.Server/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/m_soo/source/repos/isuliman/ZainTask/ZainTasks/ZainTasks.Blazor.Server/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,12 @@
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\bin\Debug\net6.0\ZainTasks.Module.deps.json
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\bin\Debug\net6.0\ZainTasks.Module.dll
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\bin\Debug\net6.0\ZainTasks.Module.pdb
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\obj\Debug\net6.0\ZainTasks.Module.csproj.AssemblyReference.cache
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\obj\Debug\net6.0\ZainTasks.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\obj\Debug\net6.0\ZainTasks.Module.AssemblyInfoInputs.cache
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\obj\Debug\net6.0\ZainTasks.Module.AssemblyInfo.cs
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\obj\Debug\net6.0\ZainTasks.Module.csproj.CoreCompileInputs.cache
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\obj\Debug\net6.0\ZainTasks.Module.dll
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\obj\Debug\net6.0\refint\ZainTasks.Module.dll
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\obj\Debug\net6.0\ZainTasks.Module.pdb
+C:\Users\m_soo\source\repos\ZainTasks\ZainTasks.Module\obj\Debug\net6.0\ref\ZainTasks.Module.dll

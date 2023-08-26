@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="ZainTasks">
+  <BOModel>
+    <Class Name="ZainTasks.Module.BusinessObjects.Customer">
+      <AppearanceRules>
+        <AppearanceRule Id="StatusActive" Criteria="[Status] = ##Enum#ZainTasks.Module.BusinessObjects.CustomerStatus,Active#" BackColor="0, 192, 0" TargetItems="*" IsNewNode="True" />
+        <AppearanceRule Id="StatusBanned" BackColor="64, 64, 64" Criteria="[Status] = ##Enum#ZainTasks.Module.BusinessObjects.CustomerStatus,Banned#" TargetItems="*" IsNewNode="True" />
+        <AppearanceRule Id="StatusInActive" BackColor="192, 0, 0" TargetItems="*" Criteria="[Status] = ##Enum#ZainTasks.Module.BusinessObjects.CustomerStatus,Inactive#" IsNewNode="True" />
+      </AppearanceRules>
+    </Class>
+  </BOModel>
+  <NavigationItems>
+    <Items>
+      <Item Id="Customer" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="Customer_ListView" ViewId="Customer_ListView" ObjectKey="" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Default">
+        <Items>
+          <Item Id="Customer_ListView" Removed="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="23.1.4.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>

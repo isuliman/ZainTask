@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Module\\ZainTasks.Module.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Module\\ZainTasks.Module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Module\\ZainTasks.Module.csproj",
+        "projectName": "ZainTasks.Module",
+        "projectPath": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Module\\ZainTasks.Module.csproj",
+        "packagesPath": "C:\\Users\\m_soo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Module\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m_soo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DevExpress.ExpressApp": {
+              "target": "Package",
+              "version": "[23.1.4, )"
+            },
+            "DevExpress.ExpressApp.CodeAnalysis": {
+              "target": "Package",
+              "version": "[23.1.4, )"
+            },
+            "DevExpress.ExpressApp.ConditionalAppearance": {
+              "target": "Package",
+              "version": "[23.1.4, )"
+            },
+            "DevExpress.ExpressApp.Objects": {
+              "target": "Package",
+              "version": "[23.1.4, )"
+            },
+            "DevExpress.ExpressApp.Validation": {
+              "target": "Package",
+              "version": "[23.1.4, )"
+            },
+            "DevExpress.ExpressApp.Xpo": {
+              "target": "Package",
+              "version": "[23.1.4, )"
+            },
+            "DevExpress.Persistent.Base": {
+              "target": "Package",
+              "version": "[23.1.4, )"
+            },
+            "DevExpress.Persistent.BaseImpl.Xpo": {
+              "target": "Package",
+              "version": "[23.1.4, )"
+            },
+            "Extended.Wpf.Toolkit": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
