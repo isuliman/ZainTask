@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FOhdVNDVMVkz5y0iaHbdvQRZexjXu+/LP97TdTwWLZY=",
+  "Hash": "ULYONIdHYQnEGC3Pe8GdU5arYeHiBW40BeF7JdLFlYI=",
   "Source": "ZainTasks.Blazor.Server",
   "BasePath": "_content/ZainTasks.Blazor.Server",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ZainTasks.Blazor.Server\\wwwroot",
       "Source": "ZainTasks.Blazor.Server",
-      "ContentRoot": "C:\\Users\\m_soo\\source\\repos\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/ZainTasks.Blazor.Server",
       "Pattern": "**"
     }
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages\\devexpress.expressapp.blazor\\23.1.4\\staticwebassets\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\m_soo\\source\\repos\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\css\\site.css",
       "SourceId": "ZainTasks.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\m_soo\\source\\repos\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/ZainTasks.Blazor.Server",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\m_soo\\source\\repos\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\favicon.ico",
       "SourceId": "ZainTasks.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\m_soo\\source\\repos\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/ZainTasks.Blazor.Server",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\m_soo\\source\\repos\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "Identity": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "SourceId": "ZainTasks.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\m_soo\\source\\repos\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/ZainTasks.Blazor.Server",
       "RelativePath": "images/Logo.svg",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Logo.svg"
     },
     {
-      "Identity": "C:\\Users\\m_soo\\source\\repos\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "Identity": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "SourceId": "ZainTasks.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\m_soo\\source\\repos\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\m_soo\\source\\repos\\isuliman\\ZainTask\\ZainTasks\\ZainTasks.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/ZainTasks.Blazor.Server",
       "RelativePath": "images/SplashScreen.svg",
       "AssetKind": "All",

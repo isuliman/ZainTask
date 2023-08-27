@@ -13,6 +13,8 @@ public class ZainTasksWindowsFormsApplication : WinApplication {
     public ZainTasksWindowsFormsApplication() {
 		SplashScreen = new DXSplashScreen(typeof(XafSplashScreen), new DefaultOverlayFormOptions());
         ApplicationName = "ZainTask";
+        
+        Title = "ZainTask By Suliman";
         CheckCompatibilityType = DevExpress.ExpressApp.CheckCompatibilityType.DatabaseSchema;
         UseOldTemplates = false;
         DatabaseVersionMismatch += ZainTasksWindowsFormsApplication_DatabaseVersionMismatch;
